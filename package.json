@@ -1,0 +1,21 @@
+{
+  "name": "teste",
+  "version": "1.0.0",
+  "description": "bem legal",
+  "main": "]",
+  "scripts": {
+    "test": "a"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "123"
+  ],
+  "author": "jao",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
